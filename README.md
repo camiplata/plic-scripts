@@ -20,11 +20,11 @@ La hoja con los términos está disponible en este [enlace](https://docs.google.
 Los siguientes comandos deben ejecutarse en la línea de comandos del sistema operativo. Se recomienda utilizar la interfaz de línea de comandos de Anaconda. Se asume que el ambiente Conda ha sido creado de la manera que se muestra en la sección siguiente a esta.
 ```shell
 # Activación del ambiente Conda
-$ conda activate geo-cosecha-agua-conversion-capas
+$ conda activate scripts-plic
 
 # Clonación del repositorio
-$ git clone https://github.com/geo-cosecha-agua/geo-cosecha-agua-conversion-capas.git
-$ cd geo-cosecha-agua-conversion-capas
+$ git clone https://github.com/mfvargas/plic-scripts.git
+$ cd scripts-plic
 
 # Ejecución de Jupyter Notebook
 $ jupyter notebook
