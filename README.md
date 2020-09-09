@@ -26,7 +26,7 @@ $ conda activate scripts-plic
 
 # Clonación del repositorio
 $ git clone https://github.com/mfvargas/plic-scripts.git
-$ cd scripts-plic
+$ cd plic-scripts
 
 # Ejecución de Jupyter Notebook
 $ jupyter notebook
