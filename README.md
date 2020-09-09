@@ -24,7 +24,7 @@ Los comandos y programas utilizados en este repositorio fueron probados en el si
 Los siguientes comandos deben ejecutarse en la línea de comandos del sistema operativo. Se recomienda utilizar la interfaz de línea de comandos de Anaconda. Se asume que el ambiente Conda ha sido creado de la manera que se muestra en la sección siguiente a esta.
 ```shell
 # Activación del ambiente Conda
-$ conda activate scripts-plic
+$ conda activate plic-scripts
 
 # Clonación del repositorio
 $ git clone https://github.com/mfvargas/plic-scripts.git
