@@ -26,17 +26,12 @@ $ conda activate geo-cosecha-agua-conversion-capas
 $ git clone https://github.com/geo-cosecha-agua/geo-cosecha-agua-conversion-capas.git
 $ cd geo-cosecha-agua-conversion-capas
 
-# Ejecución del programa
-$ ./geo-cosecha-agua-conversion-capas.sh
-
-# Compresión de los resultados (se asume que son archivos GeoJSON)
-# Este comando puede usarse si los archivos son muy grandes para subirse a GitHub
-# Es mejor subir solo los GeoJSON o solo el ZIP (no ambos), para evitar duplicidad y confusión
-# $ zip geojson.zip *.geojson
+# Ejecución de Jupyter Notebook
+$ jupyter notebook
 
 # Actualización del repositorio y de los archivos GeoJSON generados
 $ git add .
-$ git commit -m "Convertir capas"
+$ git commit -m "Cambios"
 $ git push
 
 # Desactivación del ambiente Conda
@@ -57,11 +52,8 @@ $ conda activate scripts-plic
 
 # Instalación de paquetes
 $ conda install -c anaconda jupyter
-$ conda install -c conda-forge re
-$ conda install -c conda-forge requests
-$ conda install -c conda-forge csv
-$ conda install -c conda-forge json
-$ conda install -c conda-forge pandas
+$ conda install -c anaconda requests
+$ conda install -c anaconda pandas
 
 # Desactivación del ambiente
 $ conda deactivate
