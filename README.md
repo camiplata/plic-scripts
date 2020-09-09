@@ -56,7 +56,11 @@ $ conda create -n scripts-plic
 $ conda activate scripts-plic
 
 # Instalación de paquetes
-$ conda install -c conda-forge gdal
+$ conda install -c conda-forge re
+$ conda install -c conda-forge requests
+$ conda install -c conda-forge csv
+$ conda install -c conda-forge json
+$ conda install -c conda-forge pandas
 
 # Desactivación del ambiente
 $ conda deactivate
