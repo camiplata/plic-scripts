@@ -10,7 +10,9 @@ Los comandos y programas utilizados en este repositorio fueron probados en el si
 
 ## Entradas, procesamiento y salidas
 ### Entradas
-- Archivo con términos en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0).
+- term-lists.csv (archivo con términos en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0))
+- termlist-header.md (?)
+- termlist-footer.md (?)
 
 ### Procesamiento
 - Ejecución de los *notebooks*:
@@ -18,6 +20,7 @@ Los comandos y programas utilizados en este repositorio fueron probados en el si
     - ```build-page-categories.ipynb```
 
 ### Salidas
+- ?.md (?)
 
 
 ## Ejecución del programa
