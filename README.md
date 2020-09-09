@@ -50,7 +50,7 @@ El ambiente Conda solamente debe crearse una vez. Luego puede seguir usándose d
 $ conda update -n base -c defaults conda
 
 # Creación del ambiente
-$ conda create -n scripts-plic
+$ conda create -n scripts-plic python
 
 # Activación del ambiente
 $ conda activate scripts-plic
