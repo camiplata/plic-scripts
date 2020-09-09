@@ -6,7 +6,7 @@ Los *scripts* fueron desarrollados en el lenguaje de programación [Python](http
 
 En el resto de este documento, se describen las entradas, procesamiento y salidas del proceso; y se detallan los comandos necesarios para su ejecución. Se incluye también una sección con los comandos necesarios para crear el ambiente Conda.
 
-Los comandos y programas utilizados en este repositorio fueron probados en el sistema operativo Ubuntu 18.04.5 LTS (Bionic Beaver). Ya que todas las herramientas utilizadas son multiplataforma, pueden funcionar también en otros sistemas operativos, probablemente con algunos ajustes menores.
+Los comandos y programas utilizados en este repositorio fueron probados en el sistema operativo [Ubuntu 18.04.5 LTS (Bionic Beaver)](https://releases.ubuntu.com/18.04/). Ya que todas las herramientas utilizadas son multiplataforma, pueden funcionar también en otros sistemas operativos, probablemente con algunos ajustes menores.
 
 ## Entradas, procesamiento y salidas
 ### Entradas
