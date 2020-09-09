@@ -11,7 +11,9 @@ La hoja con los términos está disponible en este [enlace](https://docs.google.
 - Archivo con términos en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0).
 
 ### Procesamiento
-- Ejecución de los *notebooks* ```build-page-simple.ipynb``` y ```build-page-categories.ipynb```.
+- Ejecución de los *notebooks*:
+    - ```build-page-simple.ipynb```
+    - ```build-page-categories.ipynb```.
 
 ### Salidas
 - 
