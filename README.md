@@ -13,7 +13,7 @@ La hoja con los términos está disponible en este [enlace](https://docs.google.
 ### Procesamiento
 - Ejecución de los *notebooks*:
     - ```build-page-simple.ipynb```
-    - ```build-page-categories.ipynb```.
+    - ```build-page-categories.ipynb```
 
 ### Salidas
 - 
