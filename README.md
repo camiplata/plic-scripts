@@ -30,6 +30,7 @@ $ cd plic-scripts
 
 # Ejecución de Jupyter Notebook
 $ jupyter notebook
+# y de los notebooks build-page-simple.ipynb y build-page-categories.ipynb
 
 # Actualización del repositorio y de los archivos GeoJSON generados
 $ git add .
