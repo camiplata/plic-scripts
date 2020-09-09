@@ -1,10 +1,6 @@
 # Procesamiento de términos del Plinian Core
 ## Descripción general
-Este repositorio contiene el código fuente y la documentación de los scripts para el procesamiento de los términos del [Plinian Core](https://github.com/tdwg/PlinianCore).
-
-Los scripts originales están disponibles en [https://github.com/tdwg/rs.tdwg.org/tree/master/process/page_build_scripts](https://github.com/tdwg/rs.tdwg.org/tree/master/process/page_build_scripts).
-
-La hoja con los términos está disponible en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0).
+Este repositorio contiene el código fuente y la documentación de los *scripts* para el procesamiento de los términos del [Plinian Core](https://github.com/tdwg/PlinianCore). Los *scripts* originales están disponibles en [https://github.com/tdwg/rs.tdwg.org/tree/master/process/page_build_scripts](https://github.com/tdwg/rs.tdwg.org/tree/master/process/page_build_scripts). La hoja con los términos está disponible en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0).
 
 ## Entradas, procesamiento y salidas
 ### Entradas
@@ -16,7 +12,7 @@ La hoja con los términos está disponible en este [enlace](https://docs.google.
     - ```build-page-categories.ipynb```
 
 ### Salidas
-- 
+
 
 ## Ejecución del programa
 Los siguientes comandos deben ejecutarse en la línea de comandos del sistema operativo. Se recomienda utilizar la interfaz de línea de comandos de Anaconda. Se asume que el ambiente Conda ha sido creado de la manera que se muestra en la sección siguiente a esta.
