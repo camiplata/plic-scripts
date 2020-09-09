@@ -4,17 +4,17 @@ Este repositorio contiene el código fuente y la documentación de un conjunto d
 
 Los *scripts* fueron desarrollados en el lenguaje de programación [Python](https://www.python.org/) e implementados como *notebooks* de [Jupyter](https://jupyter.org/). Para facilitar su uso y mantenimiento, el procesamiento se realiza en un ambiente [Conda](https://docs.conda.io/).
 
-En el resto de este documento, se describen las entradas, procesamiento y salidas del flujo de trabajo; y se detallan los comandos necesarios para su ejecución. Se incluye también una sección con los comandos necesarios para crear el ambiente Conda.
+En el resto de este documento, se describen las entradas, procesos y salidas del flujo de trabajo; y se detallan los comandos necesarios para su ejecución. Se incluye también una sección con los comandos necesarios para crear el ambiente Conda.
 
 Los comandos y programas utilizados en este repositorio fueron probados en el sistema operativo [Ubuntu 18.04.5 LTS (Bionic Beaver)](https://releases.ubuntu.com/18.04/). Ya que todas las herramientas utilizadas son multiplataforma, pueden funcionar también en otros sistemas operativos, probablemente con algunos ajustes menores.
 
-## Entradas, procesamiento y salidas
+## Entradas, procesos y salidas
 ### Entradas
 - term-lists.csv (¿archivo con términos en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0)?)
 - termlist-header.md (¿?)
 - termlist-footer.md (¿?)
 
-### Procesamiento
+### Procesos
 - Ejecución de los *notebooks*:
     - ```build-page-simple.ipynb```
     - ```build-page-categories.ipynb```
@@ -23,7 +23,7 @@ Los comandos y programas utilizados en este repositorio fueron probados en el si
 - ?.md (¿?)
 
 
-## Ejecución del procesamiento
+## Ejecución del flujo de trabajo
 Los siguientes comandos deben ejecutarse en la línea de comandos del sistema operativo. Se recomienda utilizar la interfaz de línea de comandos de Anaconda. Se asume que el ambiente Conda ha sido creado de la manera que se muestra en la sección siguiente a esta.
 ```shell
 # Activación del ambiente Conda
