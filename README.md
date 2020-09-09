@@ -2,6 +2,12 @@
 ## Descripción general
 Este repositorio contiene el código fuente y la documentación de los *scripts* para el procesamiento de los términos del [Plinian Core](https://github.com/tdwg/PlinianCore). Los *scripts* originales están disponibles en [https://github.com/tdwg/rs.tdwg.org/tree/master/process/page_build_scripts](https://github.com/tdwg/rs.tdwg.org/tree/master/process/page_build_scripts). La hoja con los términos está disponible en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0).
 
+Los *scripts* fueron desarrollados en el lenguaje de programación [Python](https://www.python.org/) e implementados como *notebooks* de [Jupyter](https://jupyter.org/). Para facilitar su uso y mantenimiento, el programa se ejecuta en un ambiente [Conda](https://docs.conda.io/).
+
+En el resto de este documento, se describen las entradas, procesamiento y salidas del programa; y se detallan los comandos necesarios para su ejecución. Se incluye también una sección con los comandos necesarios para crear el ambiente Conda en el que se ejecuta el programa.
+
+Los comandos y programas utilizados en este repositorio fueron probados en el sistema operativo Ubuntu 18.04.5 LTS (Bionic Beaver). Ya que todas las herramientas utilizadas son multiplataforma, pueden funcionar también en otros sistemas operativos, probablemente con algunos ajustes menores.
+
 ## Entradas, procesamiento y salidas
 ### Entradas
 - Archivo con términos en este [enlace](https://docs.google.com/spreadsheets/d/1PdZbctIzZQet3gGXsWUWIoKwgUyzSdkUaApIXImjboE/edit#gid=0).
