@@ -56,6 +56,7 @@ $ conda create -n scripts-plic python
 $ conda activate scripts-plic
 
 # Instalación de paquetes
+$ conda install -c anaconda jupyter 
 $ conda install -c conda-forge re
 $ conda install -c conda-forge requests
 $ conda install -c conda-forge csv
