@@ -50,10 +50,10 @@ El ambiente Conda solamente debe crearse una vez. Luego puede seguir usándose d
 $ conda update -n base -c defaults conda
 
 # Creación del ambiente
-$ conda create -n scripts-plic python
+$ conda create -n plic-scripts python
 
 # Activación del ambiente
-$ conda activate scripts-plic
+$ conda activate plic-scripts
 
 # Instalación de paquetes
 $ conda install -c anaconda jupyter
